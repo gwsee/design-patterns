@@ -8,7 +8,9 @@ import "fmt"
 
 以下是 Go 语言中实现抽象工厂模式的一个例子：
 */
+
 // 抽象产品 A 和 B 的接口
+
 type ProductA interface {
 	UseA() string
 }
