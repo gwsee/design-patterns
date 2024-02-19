@@ -14,6 +14,8 @@ Design Patterns
 https://refactoringguru.cn/design-patterns/mediator
 
 https://zhuanlan.zhihu.com/p/575645658
+
+gpt
 ```
 
 
