@@ -91,4 +91,6 @@ func main() {
 	// 触发行为，行为通过中介者相互通知
 	colleague1.Action()
 	colleague2.RespondToEvent()
+
+	//这个gpt的示例很撇  还没有外面那个的
 }
