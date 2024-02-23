@@ -63,4 +63,12 @@ func main() {
 
 	// 执行操作
 	fmt.Println(root.Perform())
+	/**
+	Composite [Root]
+	Leaf 1
+	Composite [Composite 1]
+	Leaf 2
+	Composite [Composite 2]
+	Leaf 3
+	*/
 }

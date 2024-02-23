@@ -21,4 +21,5 @@ func main() {
 	}
 
 	fmt.Printf("Price of veggeMania with tomato and cheese topping is %d\n", pizzaWithCheeseAndTomato.getPrice())
+	//Price of veggeMania with tomato and cheese topping is 32
 }

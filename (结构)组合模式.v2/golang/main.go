@@ -27,4 +27,11 @@ func main() {
 	folder2.add(folder1)
 
 	folder2.search("rose")
+	/**
+	Serching recursively for keyword rose in folder Folder2
+	Searching for keyword rose in file File2
+	Searching for keyword rose in file File3
+	Serching recursively for keyword rose in folder Folder1
+	Searching for keyword rose in file File1
+	*/
 }
