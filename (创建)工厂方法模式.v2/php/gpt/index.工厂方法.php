@@ -1,4 +1,5 @@
 <?php
+namespace php\gpt\factory_method;
 interface Product {
     public function use(): void;
 }

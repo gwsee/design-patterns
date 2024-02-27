@@ -1,4 +1,5 @@
 <?php
+namespace php\gpt\combine;
 interface Component {
     public function operation();
 }

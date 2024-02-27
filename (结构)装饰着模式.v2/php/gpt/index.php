@@ -1,4 +1,5 @@
 <?php
+namespace php\gpt\decorative;
 interface Component {
     public function operation(): string;
 }

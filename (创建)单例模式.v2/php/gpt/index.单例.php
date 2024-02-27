@@ -1,5 +1,6 @@
 <?php
 //php index.单例.php
+namespace php\gpt\single;
 class Singleton
 {
     /**
